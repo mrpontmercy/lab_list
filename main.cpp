@@ -2,7 +2,6 @@
 #include <iostream>
 #include <ctime>
 
-
 using namespace std;
 
 int main(int argc, char const *argv[])
